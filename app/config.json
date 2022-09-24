@@ -1,0 +1,90 @@
+﻿{
+    "bot": {
+        "owner": "931907601476763659",
+        "prefix": ".",
+        "BotStatus": "Slowky ❤️ Santos",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "1022882293414629406",
+            "log": "1022891432568176669",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "1022882294295441500",
+            "roles": "1022882288125620294",
+            "log": "1022891457004183592",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1022888063942262824",
+            "roles": "1022882290298277928",
+            "log": "1022891489728143512",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "1022887840427823164",
+            "log": "1022891543343927478"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "1022888426250444800",
+        "voicelog": "1022888522153201725",
+        "taglog": "1022882365120458815"
+    },
+    "roles": {
+        "boosterrole": "",
+        "viprole": "1022882273521045544",
+        "designerrole": "1022882274406039633",
+        "musiciansrole": "1022882275425275956",
+        "team": "1022882270010421430",
+        "sponsored": "1022882272514420868"
+    },
+    "channels": {
+        "chat": "<#1022882347542126632>",
+        "voicechannel": "1022882320639856730",
+        "welcomechannel": "1022882314734288937",
+        "rules": "<#1022882321906536448>"
+    },
+    "parents": {
+        "publicparents": ""
+    },
+    "registration": {
+        "unregistered": "1022882280911425686",
+        "man": "1022882279854456882",
+        "woman": "1022882278730383493",
+        "staff": "1022882258673221672",
+        "GuilDTag": ["¿","santos","Santos"],
+        "TagSymbol": ["¿ | Santos | santos"],
+        "autonickname": "¿ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1022882288125620294",
+        "suspeciosnickname": "¿ Şüpheli Hesap",
+        "oneman": "1022882279854456882",
+        "onewoman": "1022882278730383493",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1022879521323630627",
+        "GuilDName": "SANTOS x 1976",
+        "GuildOwnerRole": ["1022883600284258324"]
+    },
+    "emojis": {
+        "tada": "",
+        "yes": "",
+        "no": ""
+    },
+    "buttons": {
+        "giveaway": "1022892163912192030",
+        "activity": "1022892155523575829"
+    }
+}
